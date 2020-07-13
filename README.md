@@ -25,5 +25,5 @@ THEN I am again presented with current and future conditions for that city
 
 
 ## Screenshot
-![screenshot]<img src=">
+![screenshot]<img src="https://github.com/jbdelapp/weather-app/blob/master/assets/Screen%20Shot%202020-07-13%20at%2010.47.53%20AM.png">
 
